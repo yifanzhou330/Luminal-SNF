@@ -1,5 +1,4 @@
 rm(list = ls() ) ; graphics.off()
-setwd("/Users/ZYF/Desktop/研究生科研/研一/lumianl平台建立/生信分析/30.NG修改/代码上传")
 library(paletteer) 
 library(export)
 library(ggpubr)
